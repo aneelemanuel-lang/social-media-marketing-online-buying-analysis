@@ -6,9 +6,9 @@
 
 ## Overview
 
-This repository contains a quantitative research project investigating the impact of social media marketing on impulsive buying behaviour in Pakistan's online food industry.
+This repository contains my undergraduate research project investigating the impact of social media marketing on online impulsive buying behaviour in Pakistan's online food industry.
 
-The study examines how social media platforms and viral marketing campaigns influence consumers' purchasing decisions using survey-based research and statistical analysis.
+The research examines how social media marketing and viral marketing influence consumer purchasing decisions using survey-based quantitative research and statistical analysis.
 
 ---
 
@@ -16,7 +16,7 @@ The study examines how social media platforms and viral marketing campaigns infl
 
 - Investigate the impact of social media marketing on online impulsive buying behaviour.
 - Analyse the influence of viral marketing on consumer purchasing decisions.
-- Evaluate relationships between marketing activities and consumer behaviour.
+- Evaluate the relationship between marketing activities and consumer behaviour.
 - Validate research hypotheses using statistical analysis.
 
 ---
@@ -28,21 +28,21 @@ The study examines how social media platforms and viral marketing campaigns infl
 - Digital Marketing
 - Quantitative Research
 - Statistical Analysis
-- Business Analytics
 - Marketing Research
+- Business Analytics
 
 ---
 
 ## Research Methodology
 
-The project follows a quantitative research approach consisting of:
+The study followed a quantitative research methodology consisting of:
 
 1. Literature Review
 2. Research Framework Development
 3. Survey Questionnaire Design
 4. Data Collection
 5. Data Cleaning
-6. Reliability Analysis
+6. Statistical Analysis
 7. Correlation Analysis
 8. Regression Analysis
 9. Hypothesis Testing
@@ -70,19 +70,40 @@ The project follows a quantitative research approach consisting of:
 
 ## Key Findings
 
-- Social media marketing significantly influences impulsive buying behaviour.
-- Viral marketing positively impacts consumers' online purchasing decisions.
+- Social media marketing significantly influences online impulsive buying behaviour.
+- Viral marketing positively affects consumers' purchasing decisions.
 - Statistical analysis supported the proposed research hypotheses.
 
 ---
 
 ## Repository Contents
 
-- Research Report
+- Research Report (PDF)
+- University Project Summary
 - Research Methodology
 - Literature Review
 - Statistical Analysis
-- Results and Discussion
+- Supporting Figures
+
+---
+
+## Project Figures
+
+### Conceptual Framework
+
+![Conceptual Framework](images/conceptual-framework.png)
+
+---
+
+### Research Framework
+
+![Research Framework](images/research-framework.png)
+
+---
+
+### Statistical Analysis
+
+![Statistical Analysis](images/regression-results.png)
 
 ---
 
@@ -90,13 +111,13 @@ The project follows a quantitative research approach consisting of:
 
 - Quantitative Research
 - Survey Design
-- Data Collection
 - Statistical Analysis
-- SPSS
+- IBM SPSS
+- Data Collection
 - Regression Analysis
-- Research Methodology
 - Academic Writing
-- Critical Analysis
+- Research Methodology
+- Critical Thinking
 
 ---
 
@@ -104,7 +125,7 @@ The project follows a quantitative research approach consisting of:
 
 **Completed Undergraduate Research Project**
 
-This repository contains the final research report. No software implementation or source code is included.
+This repository contains the final research report, supporting documentation and project figures.
 
 ---
 
